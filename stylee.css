@@ -298,6 +298,7 @@ nav ul li a{
     width: 150px;
     right: 840px;
     position: absolute;
+    align-items: flex-start;
 }
 .menu-list{
     display: flex;
